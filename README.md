@@ -8,18 +8,16 @@ CIFAR-10 is an established computer-vision dataset used for object recognition. 
 80 million tiny images dataset and consists of 60,000 32x32 color images containing one of 10
 object classes, with 6000 images per class. 
 
-The dataset is broken into batches to prevent your machine from running out of memory. The
-CIFAR-10 dataset consists of 5 batches, named data_batch_1, data_batch_2, etc.. Each batch
+The CIFAR-10 dataset consists of 5 batches, named data_batch_1, data_batch_2, etc.. Each batch
 contains the labels and images that are one of the following:
-*airplane
-automobile
-bird
-cat
-deer
-dog
-frog
-horse
-ship
-truck
-Understanding a dataset is part of making predictions on the data.
+.airplane
+.automobile
+.bird
+.cat
+.deer
+.dog
+.frog
+.horse
+.ship
+.truck
 
