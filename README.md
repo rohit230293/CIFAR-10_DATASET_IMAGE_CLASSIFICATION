@@ -21,5 +21,5 @@ contains the labels and images that are one of the following:
 .ship
 .truck
 
-#Accuracy score
+# Accuracy score
 Using the convolution neural network concepts, the classification accuracy for the final model I achieved for CIFAR-10 data set is 79.21%
